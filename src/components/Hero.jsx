@@ -420,7 +420,7 @@ export default function Hero() {
       {/* Right Face landmarks SVG */}
       <div className="absolute right-0 top-1/2 -translate-y-1/2 w-[600px] xl:w-[500px] pointer-events-none select-none hidden lg:block">
         <div style={{ animation: 'heroFloat 7s ease-in-out infinite' }}>
-          <img src="public/images/face-3.png" alt=""/>
+          <img src="images/face-3.png" alt=""/>
         </ div>
       </ div>
       
@@ -460,7 +460,7 @@ export default function Hero() {
         <div className="flex justify-center mb-8">
           <div className="relative">
             <div className="w-28 h-28 rounded-full border-2 border-[#00D9FF]/40 flex items-center justify-center bg-[#0a0a14] text-4xl font-display font-bold text-[#00D9FF] text-glow overflow-hidden">
-              <img src="public/images/profile.png" alt=""/>
+              <img src="images/profile.png" alt=""/>
             </div>
             <div
               className="absolute inset-0 rounded-full border-2 border-transparent"
